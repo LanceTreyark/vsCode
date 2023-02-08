@@ -24,6 +24,7 @@ C:\Users\treya\Desktop\GitHubRepo\vsCode\020723_hc_black.json
 "#DCDCAA" to "#ff4d00"
 
 //echo "color"
+
 "scope":["entity.name.function","support.function","support.constant.handlebars","source.powershell variable.other.member"],"settings":{"foreground":
 
 "#DCDCAA" to "#ff0000" 
