@@ -1,4 +1,4 @@
-2/7/23 Notes on what colors I changed today
+# 2/7/23 Notes on what colors I changed today
 C:\Users\treya\Desktop\GitHubRepo\vsCode\020723_hc_black.json
 
 
@@ -7,11 +7,6 @@ C:\Users\treya\Desktop\GitHubRepo\vsCode\020723_hc_black.json
 
 "scope":"string","settings":{"foreground":
 "#ce9178" to "#00ff04" (temp to "#f700ff")
-
-#skip
-"scope":["entity.name.function","support.function","support.constant.handlebars","source.powershell variable.other.member"],"settings":{"foreground":
-"#DCDCAA" to "#ff0000"
-
 
 "scope":["keyword.control","source.cpp keyword.operator.new","source.cpp keyword.operator.delete","keyword.other.using","keyword.other.operator"],"settings":{"foreground":
 "#C586C0" to "#ff00ea"  -------------not working ?
@@ -22,7 +17,7 @@ C:\Users\treya\Desktop\GitHubRepo\vsCode\020723_hc_black.json
 ,"customLiteral":
 "#DCDCAA" to "#ff4d00"
 
-# echo "color"
+//echo "color"
 "scope":["entity.name.function","support.function","support.constant.handlebars","source.powershell variable.other.member"],"settings":{"foreground":
 "#DCDCAA" to "#ff0000" 
 
